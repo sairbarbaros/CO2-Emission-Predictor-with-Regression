@@ -1,5 +1,5 @@
 # Carbondioxide-Emission-Predictor
-*Predicting carbondioxide emissions of cars based on their models, engine sizes, cylinders, etc.
+*Predicting carbondioxide emissions of cars based on their models, engine sizes, cylinders, etc. using regression.
 
 *The model has a 88% accuracy.
 
